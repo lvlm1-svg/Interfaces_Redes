@@ -1,14 +1,10 @@
 # Relatório
 
 ## Identificação
-**Nome:** Lucas Valmir Lopes de Melos
-
-**Matrícula:** 2024333016
-
-**Turma:** 913A
-
-**Data:** 26/10/2026
-
+**Nome:** Lucas Valmir Lopes de Melos  
+**Matrícula:** 2024333016  
+**Turma:** 913A  
+**Data:** 26/10/2026  
 **Título:** Laboratório de Sistemas Operacionais e Redes (LSOR)
 
 ---
